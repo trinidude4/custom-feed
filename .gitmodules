@@ -1,0 +1,6 @@
+[submodule "package/airsaned"]
+	path = package/airsaned
+	url = https://github.com/trinidude4/airsaned.git
+[submodule "package/sane-airscan"]
+	path = package/sane-airscan
+	url = https://github.com/trinidude4/sane-airscan.git
